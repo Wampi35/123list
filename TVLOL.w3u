@@ -22,6 +22,7 @@
                         "name": "GSW",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://streamingon.org/#/nba/portland-trail-blazers-vs-golden-state-warriors",
+            "referer" : "https://streamingon.org/#/nba/portland-trail-blazers-vs-golden-state-warriors",
 			"isHost": "true"
                }, {  
                         "name": "",
@@ -657,4 +658,5 @@
 ]}
   ]
 }
+
 
